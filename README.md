@@ -4,13 +4,6 @@ Guía paso a paso para aprender ciberseguridad en 2026. Compilado exhaustivo de 
 _Este repositorio es una ruta de aprendizaje técnica, extensiva y gratuita para dominar la ciberseguridad desde los cimientos hasta el nivel Junior._
 
 ## 📌 Tabla de Contenidos
-1. [Fase 1: Fundamentos  (Sistemas y Redes)]
-2. [Fase 2: Blue Team (DFIR, SOC y Caza de Amenazas)]
-3. [Fase 3: Red Team (Auditoría de Infraestructura y Web)]
-5. [Biblioteca de Enlaces y Recursos Gratuitos]
-
-## 📊 Resumen del Camino
-
 
 | Nivel         | Objetivo                                           | Tiempo Estimado |
 | :------------ | :------------------------------------------------- | :-------------- |
