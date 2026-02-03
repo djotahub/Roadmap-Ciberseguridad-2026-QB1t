@@ -200,7 +200,6 @@ Para que el trainee no se pierda, estos son los links de referencia de toda la f
 * [Cisco Python Essentials](https://skillsforall.com/course/python-essentials-1) - Certificado de finalización.
 *  [Cisco: Ethical Hacker](https://skillsforall.com/course/ethical-hacker) - Fundamentos de seguridad ofensiva.
 * [Cisco: Junior Cybersecurity Analyst](https://skillsforall.com/learning-path/cybersecurity-analyst) - El path inicial para  perfiles SOC.
-* [ISC2: Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC) - Estándar de la industria.
 
 
 ### 📚 Biblias Técnicas
