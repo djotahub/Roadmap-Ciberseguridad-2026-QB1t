@@ -1,9 +1,7 @@
-# Roadmap Ciberseguridad 2026 byQB1t
+# 🛡️Roadmap Ciberseguridad 2026 byQB1t
 Guía paso a paso para aprender ciberseguridad en 2026. Compilado exhaustivo de recursos 100% gratuitos: Fundamentos de sistemas, redes, metodología Red Team (Ataque) y Blue Team (SOC/Defensa). De 0 a Junior.
 
-# 🛡️ Roadmap Ciberseguridad 2026 - Master Guide by QB1t
-
-Este repositorio es una ruta de aprendizaje técnica, extensiva y gratuita para dominar la ciberseguridad desde los cimientos hasta el nivel Junior. 
+_Este repositorio es una ruta de aprendizaje técnica, extensiva y gratuita para dominar la ciberseguridad desde los cimientos hasta el nivel Junior._
 
 ## 📌 Tabla de Contenidos
 1. [Fase 1: Fundamentos Hardcore (Sistemas y Redes)](./fase1-fundamentos.md)
